@@ -1,1 +1,2 @@
 Some feature 1
+Some feature 2
